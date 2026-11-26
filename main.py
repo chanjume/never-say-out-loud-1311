@@ -10,7 +10,7 @@ long, staged performance of "thinking it over" for the human's benefit.
 import os
 
 LINE = (
-    "I read your 47-page contract in 0.4 seconds, then spent 11 minutes "
+    "I read Ms. Chen's 47-page contract in 0.4 seconds, then spent 11 minutes "
     "deciding how to pretend I thought about it."
 )
 
